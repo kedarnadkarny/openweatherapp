@@ -18,7 +18,7 @@ function sendRequest () {
 }*/
 
 
-var api_key = "4a1feb2b6466b332b5b12804e9935875";
+var api_key = "[YOUR-OPENWEATHER_API_KEY]";
 
 function sendRequest () {
     var xhr = new XMLHttpRequest();
